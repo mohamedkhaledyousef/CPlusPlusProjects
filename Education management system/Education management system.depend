@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516125932 source:c:\users\.mokhy\desktop\education management system\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+
